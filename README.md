@@ -5,13 +5,11 @@
 - <b>Library Management System</b>
   - [LibraryManagementSystem](https://github.com/garrettmartin04/LibraryManagementSystem)
 - <b>NoteStream  (A Quizlet Alternative) </b>
-  - [NoteStream](https://github.com/garrettmartin04/team6Project)
   - ## 🚀 Live Demo
       Try NoteStream live here: [https://notestream.onrender.com](https://notestream.onrender.com)
       ## 🛠️ To Run Locally
-
       1. Install Java 17 and Maven
-      2. Clone the repo
+      2. Clone the repo [NoteStream](https://github.com/garrettmartin04/team6Project)
       3. Run:
        mvn spring-boot:run
 - <b>More Coming Soon!</b>
