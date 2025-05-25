@@ -12,6 +12,9 @@
       2. Clone the repo: [NoteStream](https://github.com/garrettmartin04/team6Project)
       3. Run:
        mvn spring-boot:run
+- <b>XOR Neural Network (My First Python ML Project)</b>
+  - A simple neural network built with TensorFlow Keras to learn the XOR logic gate, demonstrating foundational ML concepts.
+  - GitHub repo: [XOR Neural Network](https://github.com/garrettmartin04/PythonXOR)
 - <b>More Coming Soon!</b>
 
 <h2> Connect:</h2>
