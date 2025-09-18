@@ -15,6 +15,9 @@
 - <b>XOR Neural Network (My First Python ML Project)</b>
   - A simple neural network built with TensorFlow Keras to learn the XOR logic gate, demonstrating foundational ML concepts.
   - GitHub repo: [XOR Neural Network](https://github.com/garrettmartin04/PythonXOR)
+- <b>OCR Demo (OpenCV and Tesseract)</b>
+  - Live OCR demo using Tesseract and OpenCV to detect text, draw bounding boxes, and show confidence scores.
+  - GitHub repo: [OCRDemo](https://github.com/garrettmartin04/OCRDemo)
 - <b>More Coming Soon!</b>
 
 <h2> Connect:</h2>
