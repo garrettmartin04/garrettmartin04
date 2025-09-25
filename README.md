@@ -9,7 +9,7 @@
       Try NoteStream live here: [https://notestream.onrender.com](https://notestream.onrender.com)
       ## 🛠️ To Run Locally
       1. Install Java 17 and Maven
-      2. Clone the repo: [NoteStream](https://github.com/garrettmartin04/team6Project)
+      2. Clone the repo: [NoteStream](https://github.com/garrettmartin04/NoteStream)
       3. Run:
        mvn spring-boot:run
 - <b>XOR Neural Network (My First Python ML Project)</b>
@@ -18,6 +18,9 @@
 - <b>OCR Demo (OpenCV and Tesseract)</b>
   - Live OCR demo using Tesseract and OpenCV to detect text, draw bounding boxes, and show confidence scores.
   - GitHub repo: [OCRDemo](https://github.com/garrettmartin04/OCRDemo)
+- <b>Sky Phantom</b>  
+  - A 2D arcade-style aerial combat game built in Unity and C#. Players control a jet, dodge enemy fire, and take down waves of enemies to chase      the highest score.  
+  - GitHub repo: [SkyPhantom](https://github.com/garrettmartin04/SkyPhantom)
 - <b>More Coming Soon!</b>
 
 <h2> Connect:</h2>
